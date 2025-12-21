@@ -1,13 +1,14 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About Me
+permalink: /
 ---
 
-# Welcome to my personal website!
+## Who am I?
 
-Here you can find information about me, my work, and my thoughts.
+Write a brief introduction here.
 
-- [About](about)
-- [Blog](blog)
-- [CV](cv)
-- [Papers](papers)
+## Contact
+
+- Email: your.email@example.com
+- GitHub: [JoschkaStrueber](https://github.com/JoschkaStrueber)

@@ -2,6 +2,18 @@ title: My Personal Website
 description: >-
   A personal website to share my work, thoughts, and resume.
 theme: minima
+minima:
+  nav_pages:
+    - blog.md
+    - papers.md
+    - cv.md
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/the-klingspor"
+    - title: Twitter
+      icon: x-twitter
+      url: "https://x.com/JoschkaStrueber"
 plugins:
   - jekyll-feed
 
