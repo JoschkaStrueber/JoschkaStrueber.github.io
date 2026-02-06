@@ -1,7 +1,7 @@
 - year: 2026
   papers:
     - title: "Intrinsic Credit Assignment for Long Horizon Interaction"
-      authors: "Ilze Amanda Auzina, <strong>Joschka Str&uuml;ber</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
+      authors: "Ilze Amanda Auzina*, <strong>Joschka Str&uuml;ber*</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez*, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
       venue: "arXiv Preprint (coming soon)"
       venue_short: "arXiv"
       links:
@@ -10,7 +10,7 @@
 - year: 2025
   papers:
     - title: "Measuring Belief Updates in Curious Agents"
-      authors: "<strong>Joschka Str&uuml;ber</strong>, Ilze Amanda Auzina, Shashwat Goel, Susanne Keller, Jonas Geiping, Ameya Prabhu, and Matthias Bethge"
+      authors: "<strong>Joschka Str&uuml;ber*</strong>, Ilze Amanda Auzina*, Shashwat Goel, Susanne Keller, Jonas Geiping, Ameya Prabhu, and Matthias Bethge"
       venue: "ICML 2025 Workshop on Assessing World Models"
       venue_short: "ICML-W"
       highlight: "Oral"
@@ -26,7 +26,7 @@
         }
 
     - title: "Great Models Think Alike and this Undermines AI Oversight"
-      authors: "Shashwat Goel, <strong>Joschka Str&uuml;ber</strong>, Ilze Amanda Auzina, Karuna K Chandra, Ponnurangam Kumaraguru, Douwe Kiela, Ameya Prabhu, Matthias Bethge, and Jonas Geiping"
+      authors: "Shashwat Goel*, <strong>Joschka Str&uuml;ber*</strong>, Ilze Amanda Auzina*, Karuna K Chandra, Ponnurangam Kumaraguru, Douwe Kiela, Ameya Prabhu, Matthias Bethge, and Jonas Geiping"
       venue: "International Conference on Machine Learning (ICML), 2025"
       venue_short: "ICML"
       highlight: "Spotlight"
