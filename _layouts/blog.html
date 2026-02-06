@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="page">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  <div class="page-content">
+    {{ content }}
+    {% if site.posts.size > 0 %}
+    {% if page.list_title %}
+    <h2>{{ page.list_title }}</h2>
+    {% endif %}
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No posts yet.</p>
+    {% endif %}
+  </div>
+</article>

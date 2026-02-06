@@ -1,0 +1,46 @@
+- year: 2026
+  papers:
+    - title: "Intrinsic Credit Assignment for Long Horizon Interaction"
+      authors: "Ilze Amanda Auzina, <strong>Joschka Str&uuml;ber</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
+      venue: "arXiv Preprint"
+      venue_short: "arXiv"
+      links: []
+- year: 2025
+  papers:
+    - title: "Measuring Belief Updates in Curious Agents"
+      authors: "<strong>Joschka Str&uuml;ber</strong>, Ilze Amanda Auzina, Shashwat Goel, Susanne Keller, Jonas Geiping, Ameya Prabhu, and Matthias Bethge"
+      venue: "ICML 2025 Workshop on Assessing World Models"
+      venue_short: "ICML-W"
+      highlight: "Oral"
+      links:
+        - label: "PDF"
+          url: "https://openreview.net/pdf?id=vIddey7z1I"
+      bibtex: |
+        @inproceedings{strueber2025measuring,
+          title={Measuring Belief Updates in Curious Agents},
+          author={Str{\"u}ber, Joschka and Auzina, Ilze Amanda and Goel, Shashwat and Keller, Susanne and Geiping, Jonas and Prabhu, Ameya and Bethge, Matthias},
+          booktitle={ICML 2025 Workshop on Assessing World Models},
+          year={2025}
+        }
+
+    - title: "Great Models Think Alike and this Undermines AI Oversight"
+      authors: "Shashwat Goel, <strong>Joschka Str&uuml;ber</strong>, Ilze Amanda Auzina, Karuna K Chandra, Ponnurangam Kumaraguru, Douwe Kiela, Ameya Prabhu, Matthias Bethge, and Jonas Geiping"
+      venue: "International Conference on Machine Learning (ICML), 2025"
+      venue_short: "ICML"
+      highlight: "Spotlight"
+      links:
+        - label: "PDF"
+          url: "https://arxiv.org/abs/2502.04313"
+        - label: "Website"
+          url: "https://model-similarity.github.io/"
+        - label: "Code"
+          url: "https://github.com/model-similarity/lm-similarity"
+        - label: "Data"
+          url: "https://huggingface.co/datasets/bethgelab/lm-similarity"
+      bibtex: |
+        @inproceedings{goel2025great,
+          title={Great Models Think Alike and this Undermines AI Oversight},
+          author={Goel, Shashwat and Str{\"u}ber, Joschka and Auzina, Ilze Amanda and Chandra, Karuna K and Kumaraguru, Ponnurangam and Kiela, Douwe and Prabhu, Ameya and Bethge, Matthias and Geiping, Jonas},
+          booktitle={Proceedings of the 42nd International Conference on Machine Learning},
+          year={2025}
+        }
