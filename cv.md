@@ -12,6 +12,7 @@ permalink: /resume/
 - **Abitur** (GPA 1.0), Söderblom Gymnasium, Espelkamp (2014)
 
 ## Experience
+- **PhD Student** with Prof. Dr. Matthias Bethge, Tübingen AI Center at the Eberhard Karls Universität Tübingen (July 2024 -- now) 
 
 - **Teaching Assistant** for Prof. Dr. Zeynep Akata, Eberhard Karls Universität Tübingen (Apr. 2023 -- July 2023)
   - Corrected, graded and presented solutions of exercises for Introduction to Machine Learning
