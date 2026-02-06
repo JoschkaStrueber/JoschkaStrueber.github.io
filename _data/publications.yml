@@ -2,9 +2,11 @@
   papers:
     - title: "Intrinsic Credit Assignment for Long Horizon Interaction"
       authors: "Ilze Amanda Auzina, <strong>Joschka Str&uuml;ber</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
-      venue: "arXiv Preprint"
+      venue: "arXiv Preprint (coming soon)"
       venue_short: "arXiv"
-      links: []
+      links:
+        - label: "Website"
+          url: "https://IntrinsicCreditAssignment.github.io/"
 - year: 2025
   papers:
     - title: "Measuring Belief Updates in Curious Agents"
