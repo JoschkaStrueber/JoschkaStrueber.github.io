@@ -2,11 +2,25 @@
   papers:
     - title: "Intrinsic Credit Assignment for Long Horizon Interaction"
       authors: "Ilze Amanda Auzina*, <strong>Joschka Str&uuml;ber*</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez*, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
-      venue: "arXiv Preprint (coming soon)"
+      venue: "arXiv Preprint"
       venue_short: "arXiv"
       links:
+        - label: "arXiv"
+          url: "https://arxiv.org/abs/2602.12342"
         - label: "Website"
-          url: "https://IntrinsicCreditAssignment.github.io/"
+          url: "https://bethgelab.github.io/delta-belief-rl/"
+        - label: "Code"
+          url: "https://github.com/bethgelab/delta-belief-rl/"
+      bibtex: |
+        @misc{auzina2026intrinsic,
+          title={Intrinsic Credit Assignment for Long Horizon Interaction}, 
+          author={Ilze Amanda Auzina and Joschka Strüber and Sergio Hernández-Gutiérrez and Shashwat Goel and Ameya Prabhu and Matthias Bethge},
+          year={2026},
+          eprint={2602.12342},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG},
+          url={https://arxiv.org/abs/2602.12342}, 
+        }
 - year: 2025
   papers:
     - title: "Measuring Belief Updates in Curious Agents"
@@ -31,7 +45,7 @@
       venue_short: "ICML"
       highlight: "Spotlight"
       links:
-        - label: "PDF"
+        - label: "arXiv"
           url: "https://arxiv.org/abs/2502.04313"
         - label: "Website"
           url: "https://model-similarity.github.io/"
