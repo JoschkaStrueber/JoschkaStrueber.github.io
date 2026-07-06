@@ -2,8 +2,8 @@
   papers:
     - title: "Intrinsic Credit Assignment for Long Horizon Interaction"
       authors: "Ilze Amanda Auzina*, <strong>Joschka Str&uuml;ber*</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez*, Shashwat Goel, Ameya Prabhu, Matthias Bethge"
-      venue: "arXiv Preprint"
-      venue_short: "arXiv"
+      venue: "International Conference on Machine Learning (ICML), 2026"
+      venue_short: "ICML"
       links:
         - label: "arXiv"
           url: "https://arxiv.org/abs/2602.12342"
@@ -12,14 +12,56 @@
         - label: "Code"
           url: "https://github.com/bethgelab/delta-belief-rl/"
       bibtex: |
-        @misc{auzina2026intrinsic,
-          title={Intrinsic Credit Assignment for Long Horizon Interaction}, 
-          author={Ilze Amanda Auzina and Joschka Strüber and Sergio Hernández-Gutiérrez and Shashwat Goel and Ameya Prabhu and Matthias Bethge},
+        @inproceedings{auzina2026intrinsic,
+          title={Intrinsic Credit Assignment for Long Horizon Interaction},
+          author={Auzina, Ilze Amanda and Str{\"u}ber, Joschka and Hern{\'a}ndez-Guti{\'e}rrez, Sergio and Goel, Shashwat and Prabhu, Ameya and Bethge, Matthias},
+          booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+          year={2026}
+        }
+
+    - title: "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments"
+      authors: "Babak Rahmani*, Sebastian Dziadzio*, <strong>Joschka Str&uuml;ber*</strong>, Sergio Hern&aacute;ndez-Guti&eacute;rrez, Matthias Bethge"
+      venue: "ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD)"
+      venue_short: "ICML-W"
+      bibtex: |
+        @inproceedings{rahmani2026revengebench,
+          title={RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments},
+          author={Rahmani, Babak and Dziadzio, Sebastian and Str{\"u}ber, Joschka and Hern{\'a}ndez-Guti{\'e}rrez, Sergio and Bethge, Matthias},
+          booktitle={ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD)},
+          year={2026}
+        }
+
+    - title: "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents"
+      authors: "Sergio Hern&aacute;ndez-Guti&eacute;rrez, Matteo Merler, Ilze Amanda Auzina, <strong>Joschka Str&uuml;ber</strong>, Ameya Prabhu, Matthias Bethge"
+      venue: "ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)"
+      venue_short: "ICML-W"
+      links:
+        - label: "arXiv"
+          url: "https://arxiv.org/abs/2606.32034"
+      bibtex: |
+        @inproceedings{hernandezgutierrez2026qval,
+          title={QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents},
+          author={Hern{\'a}ndez-Guti{\'e}rrez, Sergio and Merler, Matteo and Auzina, Ilze Amanda and Str{\"u}ber, Joschka and Prabhu, Ameya and Bethge, Matthias},
+          booktitle={ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)},
+          year={2026}
+        }
+
+    - title: "DataComp-VLM: Improved Open Datasets for Vision-Language Models"
+      authors: "Matteo Farina*, Vishaal Udandarao*, Thao Nguyen*, Selim Kuzucu, Maximilian B&ouml;ther, Andreas Hochlehnert, Adhiraj Ghosh, Marianna Nezhurina, Karsten Roth, <strong>Joschka Str&uuml;ber</strong>, Yuhui Zhang, Sebastian Dziadzio, Elaine Sui, Soumya Jahagirdar, Dhruba Ghosh, Hasan Hammoud, Thomas De Min, Simone Caldarella, Jehanzeb Mirza, Sedrick Keh, Mehdi Cherti, Hilde Kuehne, Bernt Schiele, Serena Yeung-Levy, Muhammad Ferjad Naeem, Federico Tombari, Ana Klimovic, Elisa Ricci, Matthias Bethge, Sewoong Oh, Ameya Prabhu, Alessio Tonioni, Jenia Jitsev, Massimiliano Mancini, Ludwig Schmidt, Nikhil Parthasarathy"
+      venue: "arXiv Preprint"
+      venue_short: "arXiv"
+      links:
+        - label: "arXiv"
+          url: "https://arxiv.org/abs/2606.28551"
+      bibtex: |
+        @misc{farina2026datacompvlm,
+          title={DataComp-VLM: Improved Open Datasets for Vision-Language Models},
+          author={Farina, Matteo and Udandarao, Vishaal and Nguyen, Thao and Kuzucu, Selim and B{\"o}ther, Maximilian and Hochlehnert, Andreas and Ghosh, Adhiraj and Nezhurina, Marianna and Roth, Karsten and Str{\"u}ber, Joschka and Zhang, Yuhui and Dziadzio, Sebastian and Sui, Elaine and Jahagirdar, Soumya and Ghosh, Dhruba and Hammoud, Hasan and De Min, Thomas and Caldarella, Simone and Mirza, Jehanzeb and Keh, Sedrick and Cherti, Mehdi and Kuehne, Hilde and Schiele, Bernt and Yeung-Levy, Serena and Naeem, Muhammad Ferjad and Tombari, Federico and Klimovic, Ana and Ricci, Elisa and Bethge, Matthias and Oh, Sewoong and Prabhu, Ameya and Tonioni, Alessio and Jitsev, Jenia and Mancini, Massimiliano and Schmidt, Ludwig and Parthasarathy, Nikhil},
           year={2026},
-          eprint={2602.12342},
+          eprint={2606.28551},
           archivePrefix={arXiv},
-          primaryClass={cs.LG},
-          url={https://arxiv.org/abs/2602.12342}, 
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2606.28551}
         }
 - year: 2025
   papers:

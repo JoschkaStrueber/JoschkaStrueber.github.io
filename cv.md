@@ -39,4 +39,4 @@ permalink: /resume/
 ## Skills
 
 - **Languages:** Python (proficient), R, C++, Java, SQL (basic)
-- **Libraries:** verl, PyTorch, Numpy, Pandas, Scikit-Learn, Pandas
+- **Libraries:** verl, vLLM, PyTorch, Numpy, Pandas, Scikit-Learn
