@@ -14,4 +14,4 @@ In my free time, I frequently play badminton and infrequently do other sports su
 
 Our world is amazing, but our days are too short.
 
-** 💡 I am currently working on new, interactive content for a lecture called "LLM Engineering" -- to be held in Tübingen in Fall 2026 💡**
+**💡 I am currently working on new, interactive content for a lecture called "LLM Engineering" -- to be held in Tübingen in Fall 2026 💡**
